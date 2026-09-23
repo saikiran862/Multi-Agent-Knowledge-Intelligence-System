@@ -1,0 +1,10 @@
+{
+  "name": "Multi-Agent Knowledge Intelligence System",
+  "description": "Multi-agent knowledge retrieval platform featuring Clarification Agent, Conversation Memory Agent, Web Speech voice interaction, and interactive Response Transparency Panel.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
