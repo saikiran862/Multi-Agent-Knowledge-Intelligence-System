@@ -33,7 +33,3 @@ Build a basic RAG retrieval pipeline.
 Design a multi-agent query resolution architecture.
 Validate retrieval performance using different domains.
 Support voice-based interaction using the Web Speech API.
-
-                     │
-                     ▼
-                    USER
